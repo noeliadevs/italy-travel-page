@@ -1,5 +1,7 @@
 # Italy Travel Page 🇮🇹
 
+Last updated
+
 A simple HTML project showcasing travel destinations and packages across Italy.
 
 ## ✨ Features
